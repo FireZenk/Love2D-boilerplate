@@ -1,5 +1,3 @@
-module(..., package.seeall);
-
 -- INPUTS
 function love.mousepressed(x, y, button)
   -- TODO

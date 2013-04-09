@@ -1,5 +1,3 @@
-module(..., package.seeall);
-
 do
     -- will hold the currently playing sources
     local sources = {}

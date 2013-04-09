@@ -1,8 +1,9 @@
 -- IMPORTS
-require "util.math"
 require "util.audio"
 require "util.input"
-require "util.collide"
+
+m_math 		= require "util.math"
+m_collide 	= require "util.collide"
 
 -- INIT
 function love.load()
